@@ -1,0 +1,7 @@
+h1. Overview
+
+This project aims to make available a list of regular expression which match vulgar words. The list is far from comprehensive, but hopefully can be used as a first line of defense.
+
+As a general rule, words which can have a legitimate use (say _hancock_) must be exact matches to (@^(c|k|ck|q)[o0](c|k|ck|q)[s$]?$@)
+
+For best performance, if your library supports it, consider enabling explicit captures.
