@@ -49,7 +49,7 @@ h[o0]m?m[o0]
 h[o0]rny
 j[a@](c|k|ck|q)\-?[o0](ph|f)(ph|f)?
 j[e3]rk\-?[o0](ph|f)(ph|f)?
-j[i1][s\$z][s\$z]m?
+j[i1][s\$z][s\$z]?m?
 [ck][o0]ndum[s\$]?
 mast(e|ur)b(8|ait|ate)
 n[i1]gg?[e3]r[s\$]?
