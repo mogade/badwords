@@ -52,7 +52,7 @@ j[e3]rk\-?[o0](ph|f)(ph|f)?
 j[i1][s\$z][s\$z]?m?
 [ck][o0]ndum[s\$]?
 mast(e|ur)b(8|ait|ate)
-n[i1]gg?[e3]r[s\$]?
+n+[i1]+[gq]+[e3]*r+[s\$]*
 [o0]rg[a@][s\$][i1]m[s\$]?
 [o0]rg[a@][s\$]m[s\$]?
 p[e3]nn?[i1][s\$]
